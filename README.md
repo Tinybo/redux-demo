@@ -7,7 +7,7 @@
   -Reducer: 负责管理Action和Store。
 ## 使用说明
 1. 安装依赖：cnpm install
-2. 运行程序：cnpm run start
-## 注意事项
-1. 将App.js 改为 app.js
-2. 将App.Test.js 改为 app.test.js
+2. 将App.js 改为 app.js
+3. 将App.test.js 改为 app.test.js
+4. 运行程序：cnpm run start
+
